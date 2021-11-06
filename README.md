@@ -1,6 +1,6 @@
 # serverbased-program
 
-This is a program which demonstrates client-server communication in Node.js
+**This is a program which demonstrates client-server communication in Node.js**
 
 Node.js provides the ability to perform socket programming. We can create chat application or communicate client and server applications using socket programming in Node.js.
 
@@ -12,9 +12,15 @@ The Node.js net module contains functions for creating both servers and clients.
 
 In this, I have used two command prompts:
 
-1. Node.js command prompt for server.
-2. Default command prompt for client.
+**1. Node.js command prompt for server.**
 
+<img src="images/nodejs-cmd.png" width="750">
+
+
+**2. Default command prompt for client.**
+
+<img src="images/cmd.png" width="750">
+  
 The net module of Node.js creates Server is a software application that can
 handle the requests sent by Client and return a web page in response to the
 Client.
